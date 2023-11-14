@@ -8,7 +8,7 @@ This repository contains a simple Python script for text summarization using the
 
 ## Example Usage
 - Enter the text you want to summarize in the input textbox.
-- Click the "Summarize" button.
+- Click the "Submit" button.
 - The summary will appear in the output textbox.
 
 ## About the Model
